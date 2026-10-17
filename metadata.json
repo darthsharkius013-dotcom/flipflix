@@ -1,0 +1,6 @@
+{
+  "name": "FlipFlix - Animated Studio & Stream",
+  "description": "Create, animate frame-by-frame, and stream original shows with Netflix-style recommendations, reviews, discussions, and multi-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
